@@ -1,0 +1,122 @@
+[
+    {
+    "id": "react",
+    "name": "React",
+    "category": "Frontend",
+    "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
+    "icon": "https://icon.icepanel.io/Technology/svg/React.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Popular"
+    },
+    {
+    "id": "vuejs",
+    "name": "Vue.js",
+    "category": "Frontend",
+    "description": "Feels like the friendlier sibling of React. Great for jumping into frontend without feeling overwhelmed.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Vue.js.svg",
+    "rating": 4.8,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Versatile"
+    },
+    {
+    "id": "svelte",
+    "name": "Svelte",
+    "category": "Frontend",
+    "description": "No virtual DOM, no extra overhead. Svelte compiles your code away and leaves you with something really fast.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Svelte.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Fast"
+    },
+    {
+    "id": "nextjs",
+    "name": "Next.js",
+    "category": "Frontend",
+    "description": "If you need React with routing, SSR, and deployment handled for you — Next.js is the obvious choice.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Next.js.svg",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Standard"
+    },
+    {
+    "id": "nodejs",
+    "name": "Node.js",
+    "category": "Backend",
+    "description": "JavaScript on the server. It changed how fullstack development works and it is still going strong.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Node.js.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Standard"
+    },
+    {
+    "id": "postgresql",
+    "name": "PostgreSQL",
+    "category": "Database",
+    "description": "A powerful, open-source object-relational database system with proven reliability.",
+    "icon": "https://icon.icepanel.io/Technology/svg/PostgresSQL.svg",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Top SQL"
+    },
+    {
+    "id": "redis",
+    "name": "Redis",
+    "category": "Database",
+    "description": "Stupid fast. Store things in memory and retrieve them instantly. Perfect for caching and sessions.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Redis.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Cache"
+    },
+    {
+    "id": "javascript",
+    "name": "JavaScript",
+    "category": "Language",
+    "description": "The language of the web. Messy at times but incredibly powerful once you know what you are doing.",
+    "icon": "https://icon.icepanel.io/Technology/svg/JavaScript.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Ubiquitous"
+    },
+    {
+    "id": "typescript",
+    "name": "TypeScript",
+    "category": "Language",
+    "description": "JavaScript but with types. Catches bugs before they happen and makes large codebases much easier to manage.",
+    "icon": "https://icon.icepanel.io/Technology/svg/TypeScript.svg",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Essential"
+    },
+    {
+    "id": "tailwindcss",
+    "name": "Tailwind CSS",
+    "category": "Styling",
+    "description": "Write styles right in your HTML. Sounds weird at first but after a week you never want to go back.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Modern"
+    },
+    {
+    "id": "docker",
+    "name": "Docker",
+    "category": "DevOps",
+    "description": "Pack your app into a container and run it anywhere. No more works on my machine problems ever again.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Docker.svg",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Containers"
+    },
+    {
+    "id": "java",
+    "name": "Java",
+    "category": "Language",
+    "description": "Been around forever and still powering massive systems worldwide. Verbose but rock solid when you need it.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Java.svg",
+    "rating": 4.6,
+    "difficulty": "Intermediate",
+    "badge": "Robust"
+    }
+]
