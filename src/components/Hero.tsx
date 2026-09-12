@@ -34,4 +34,4 @@ export default function Hero() {
         </div>
         </section>
     )
-}
+}// Hero component
