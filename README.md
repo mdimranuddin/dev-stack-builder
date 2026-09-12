@@ -20,6 +20,26 @@ A modern web application that helps developers explore, compare, and build their
 - ➕ Add technologies to your personal stack and remove them anytime
 - 🔔 Toast notifications for add, duplicate, remove, and remove-all actions
 
+## 📁 Project Structure
+
+```
+src/
+├── components/
+│ ├── Navbar.tsx # Sticky navbar with mobile hamburger
+│ ├── Hero.tsx # Banner section with gradient heading
+│ ├── TechCard.tsx # Individual technology card
+│ ├── TechGrid.tsx # Grid layout with JSON fetch and stack logic
+│ ├── YourStack.tsx # Sidebar with selected technologies
+│ └── Footer.tsx # Footer with links and social icons
+├── data/
+│ └── technologies.json # 12 technology data
+├── types/
+│ └── technology.ts # TypeScript interface
+├── App.tsx # Root component
+├── main.tsx # Entry point
+└── index.css # Global styles and gradient theme
+```
+
 ---
 
 ## 💡 React Questions & Answers
