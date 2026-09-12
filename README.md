@@ -3,7 +3,7 @@
 A modern web application that helps developers explore, compare, and build their ideal technology stack.
 
 ## 🔗 Live Site
-[Visit Dev Stack Builder](https://mdimranuddin.github.io/dev-stack-builder/)
+[Visit Dev Stack Builder](https://mdimranuddin.github.io/dev-stack-builder/) — explore and build your ideal dev stack
 
 ## 🔧 Technologies Used
 
