@@ -10,7 +10,7 @@ export default function TechGrid() {
     const [loading, setLoading] = useState(true)
 
     useEffect(() => {
-        fetch('/src/data/technologies.json')
+        fetch(`${import.meta.env.BASE_URL}src/data/technologies.json`)
         .then(res => res.json())
         .then((data: Technology[]) => {
             setTechnologies(data)
