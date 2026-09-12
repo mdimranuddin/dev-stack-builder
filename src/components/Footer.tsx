@@ -5,10 +5,7 @@ export default function Footer() {
             {/* Brand Block */}
             <div>
             <div className="flex items-center gap-2 mb-3">
-                <div className="w-8 h-8 rounded-lg brand-gradient-bg flex items-center justify-center text-white font-bold text-sm">
-                DS
-                </div>
-                <span className="font-bold text-gray-800 text-lg">Dev Stack</span>
+                <img src={`${import.meta.env.BASE_URL}logo-text.png`} alt="Dev Stack" className="h-8 object-contain" />
             </div>
             <p className="text-sm text-gray-500 leading-relaxed mb-4">
                 A place to explore dev tools, compare your options, and

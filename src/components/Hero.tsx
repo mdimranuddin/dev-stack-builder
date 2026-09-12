@@ -27,7 +27,7 @@ export default function Hero() {
         {/* Right Side: Image */}
         <div className="flex-1 flex justify-center">
         <img
-        src="/banner-stack.png"
+        src={`${import.meta.env.BASE_URL}banner-stack.png`}
         alt="Dev Stack Hero"
         className="w-125 h-125 object-contain drop-shadow-2xl"
         />

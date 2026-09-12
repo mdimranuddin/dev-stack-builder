@@ -20,7 +20,7 @@ export default function Navbar() {
         {/* Left: Logo */}
         {/* Left: Logo */}
         <div className="flex items-center">
-        <img src="/logo-text.png" alt="Dev Stack" className="h-8 object-contain" />
+        <img src={`${import.meta.env.BASE_URL}logo-text.png`} alt="Dev Stack" className="h-8 object-contain" />
         </div>
 
         {/* Center: Nav Links */}
@@ -59,13 +59,13 @@ export default function Navbar() {
             <button onClick={() => setMenuOpen(!menuOpen)}>
             {menuOpen
                 ? <X size={22} className="text-gray-700" />
-                : <img src="/hamburger.png" alt="menu" className="w-5 h-5" />
+                : <img src={`${import.meta.env.BASE_URL}hamburger.png`} alt="menu" className="w-5 h-5" />
             }
             </button>
 
           {/* Center: Logo — always centered */}
             <div className="absolute left-1/2 -translate-x-1/2">
-                <img src="/logo-text.png" alt="Dev Stack Logo" className="h-7 object-contain" />
+                <img src={`${import.meta.env.BASE_URL}logo-text.png`} alt="Dev Stack Logo" className="h-7 object-contain" />
             </div>
 
           {/* Right: Sign In + Sign Up */}
