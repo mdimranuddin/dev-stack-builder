@@ -68,4 +68,4 @@ export default function YourStack({ stack, onRemove, onRemoveAll }: Props) {
         )}
     </div>
     )
-}
+}// YourStack component
