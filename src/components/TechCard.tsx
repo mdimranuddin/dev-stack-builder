@@ -72,4 +72,4 @@ export default function TechCard({ tech, onAdd, isAdded }: Props) {
         </button>
         </div>
     )
-}
+}// TechCard component
