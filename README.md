@@ -21,10 +21,8 @@ A modern web application that helps developers explore, compare, and build their
 
 ## 💡 React Questions & Answers
 
-## 💡 React Questions & Answers
-
 **i. What is JSX, and why is it used in React?**
-JSX is basically a way to write HTML inside JavaScript. At first it looks weird but it actually makes things easier. Instead of creating elements manually, I can just write something like <h1>Hello</h1> directly in my JS file. React then converts it to real JavaScript behind the scenes. 
+JSX is basically a way to write HTML inside JavaScript. At first it looks weird but it actually makes things easier. Instead of creating elements manually, I can just write something like `<h1>Hello</h1>` directly in my JS file. React then converts it to real JavaScript behind the scenes. 
 
 **ii. What is the difference between props and state?**
 Think of props like arguments you pass to a function — the parent gives data to the child and the child just uses it, can't change it. State is different — it lives inside the component itself and when it changes, the component re-renders. Like in this project, the stack list is a state because it changes when I add or remove things.
